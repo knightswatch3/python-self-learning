@@ -1,0 +1,1 @@
+Introduction to Python, Installation, Environments (VS Code/PyCharm), Running Code (Scripts, REPL)
